@@ -1,0 +1,12 @@
+.table1, td, th{
+   border: 2px solid black;
+}
+img{
+   margin: 2px;
+}
+.img1{
+   border: 1px solid black;
+}
+h2{
+   font-size: 30px;
+}
